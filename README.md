@@ -10,7 +10,7 @@ Este repositório reúne o **frontend** (Angular com Docker) e o **backend** (Ne
 ```bash
 carrinho_compras_fullstack/
 ├── backend/    # Submódulo: NestJS + Docker + PostgreSQL
-├── frontend/   # Submódulo: Angular
+├── frontend/   # Submódulo: Angular + Docker
 └── .gitmodules
 ````
 
